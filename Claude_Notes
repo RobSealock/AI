@@ -1,0 +1,3 @@
+https://code.claude.com/docs/en/overview
+Install Claude Code
+Run curl -fsSL https://claude.ai/install.sh | bash
